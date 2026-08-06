@@ -1,11 +1,11 @@
 # Arquitectura de Sistemas 1
-## Nombre
+### Nombre
 Ana Valeria Vicente Axpuac
-## Carné
+### Carné
 202408029
-## Curso
+### Curso
 Arquitectura de Sistemas 
-## Semestre
+### Semestre
 6to semestre
-## Carrera
+### Carrera
 Ingeniería en sistemas, informatica y ciencias de la comunicación
