@@ -9,7 +9,7 @@ import {
 test("Debe formatear el nombre de una tarea", () => {
   const resultado = formatearTarea("Estudiar");
 
-  assert.equal(resultado, "📌 Estudiar");
+  assert.equal(resultado, "Estudiar");
 });
 
 test("Debe devolver Completada cuando la tarea terminó", () => {

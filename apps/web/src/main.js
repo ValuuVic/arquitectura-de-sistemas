@@ -5,18 +5,13 @@ const app = document.querySelector("#app");
 
 app.innerHTML = `
   <main class="contenedor">
-    <h1>📝 Gestor de Tareas</h1>
+    <h1>Gestor de Tareas</h1>
     <p>Frontend con Vite + Backend con Express</p>
 
     <h2>Mis tareas</h2>
     <div id="lista-tareas">
       <p>Cargando tareas...</p>
     </div>
-
-    <p class="nota">
-      Aplicaciones conectadas mediante una API REST.
-      Ambas utilizan @monorepo/shared.
-    </p>
   </main>
 `;
 

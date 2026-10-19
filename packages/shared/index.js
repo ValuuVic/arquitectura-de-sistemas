@@ -1,5 +1,5 @@
 export function formatearTarea(nombre) {
-  return `📌 ${nombre}`;
+  return `${nombre}`;
 }
 
 export function obtenerEstado(completada) {
