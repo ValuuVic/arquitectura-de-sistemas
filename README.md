@@ -147,12 +147,12 @@ npm run test
 
 **Frontend**
 
-![Frontend](docs/evidencias/frontend.png)
+![Frontend](docs/frontend.png)
 
 **Backend**
 
-![Backend](docs/evidencias/backend.png)
+![Backend](docs/backend.png)
 
 **Uso de la librería compartida**
 
-![Librería compartida](docs/evidencias/libreriacompartida.png)
+![Librería compartida](docs/libreriacompartida.png)
