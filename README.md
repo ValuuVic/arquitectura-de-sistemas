@@ -72,7 +72,7 @@ Para ejecutar el proyecto es necesario tener instalado:
 Clonar el repositorio desde GitHub:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/ValuuVic/arquitectura-de-sistemas/tree/hw-05
 ```
 
 Ingresar a la carpeta del proyecto:
