@@ -155,4 +155,4 @@ npm run test
 
 **Uso de la librería compartida**
 
-![Librería compartida](docs/libreriacompartida.png)
+![Librería compartida](docs/liberiacompartida.png)
